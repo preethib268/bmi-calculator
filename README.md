@@ -1,8 +1,8 @@
-# 💪 BMI Calculator (Height in Feet) – Streamlit App
+#  BMI Calculator (Height in Feet) – Streamlit App
 
 A responsive BMI calculator built with Python and Streamlit. Users can enter weight and height (in feet) to calculate BMI, view their health category, and see a visual reference chart. Includes session-based history and a clean UI with styled feedback.
 
-## 📌 Features
+##  Features
 
 - Input weight (kg) and height (feet)
 - Real-time BMI calculation with category status
@@ -12,13 +12,16 @@ A responsive BMI calculator built with Python and Streamlit. Users can enter wei
 - Clean UI with gradient background and styled result box
 - Reset button to clear inputs and history
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - [Streamlit](https://streamlit.io/)
 - Matplotlib (for chart visualization)
 
-## 🚀 How to Run Locally
+## App url 
+bmi-calculator-o7z7qs7vgy9mpwt3mlvdkq.streamlit.app
+
+## How to Run Locally
 
 1. **Clone the repository**:
    ```bash
